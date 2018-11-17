@@ -1,5 +1,4 @@
 package com.example.bmathew2014.smarthome;
-
 public class LightingManager {
     private boolean status;
     private int intensity;
